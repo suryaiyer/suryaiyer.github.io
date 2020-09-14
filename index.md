@@ -9,7 +9,7 @@ My love for the field grew with courses like Machine Learning and Computer visio
 
 I am currently working to complete my degree and will graduate on December 2020. I am also currently working on personal projects in the are of Reinforcement Learning and Computer vision.
 
-You can view more about my professional background in [LinkedIn](https://www.linkedin.com/in/suryaiyer/)
+You can view more about my professional background in [LinkedIn](https://www.linkedin.com/in/suryaiyer/). I am currently seeking full time positions in Data science starting from January 2021.
 
 ## Interests
  
