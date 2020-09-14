@@ -1,6 +1,6 @@
 
 
-->  Nice to meet you! <-
+->THIS TEXT IS IN THE CENTER!<-
 
 
 
