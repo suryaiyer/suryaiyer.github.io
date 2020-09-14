@@ -17,15 +17,15 @@ You can view more about my professional background in [LinkedIn](https://www.lin
  - Machine Learning 
  - Computer Vision
  - Data Science
- 
- ## Technologies
+
+## Technologies
  
  - Python
  - SQL
  - R
  - Tableau
  
- ## Packages
+## Packages
  - Pandas
  - Scikit-learn
  - Pytorch
