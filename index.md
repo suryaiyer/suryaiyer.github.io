@@ -1,25 +1,12 @@
 
+I love solving problems! I am really good at understanding problem statements and breaking them down into smaller parts and linking all of the parts together to create an amazing solution which goes beyond the expectations of the client.
 
-<p align="center">
-  <h3 align="center"> Nice to meet you! </h3>
-</p>
+## Interests and Projects
 
-### About Me
+### Artificial Intelligence
+ 
+ 
 
-
-
-
-
-You can use the [editor on GitHub](https://github.com/suryaiyer/suryaiyer.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
