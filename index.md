@@ -1,6 +1,6 @@
-## Welcome to my HomePage
+-> ## Nice to meet you! <-
 
-Nice to meet you! 
+
 
 ### About Me
 
