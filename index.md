@@ -1,8 +1,8 @@
 
 
-->THIS TEXT IS IN THE CENTER!<-
-
-
+<p align="center">
+  Nice to meet you! 
+</p>
 
 ### About Me
 
