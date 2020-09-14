@@ -1,5 +1,5 @@
 
-I love solving problems! I am really good at understanding problem statements and breaking them down into smaller parts and linking all of the parts together to create an amazing solution which goes beyond the expectations of the client.
+I love solving problems! I am really good at understanding problem statements and breaking them down into smaller parts and linking all of the parts together to create an amazing solution which goes beyond the expectations of the client. You can get to know more about my professional background on [LinkedIn](https://www.linkedin.com/in/suryaiyer/)
 
 ## Interests and Projects
 
