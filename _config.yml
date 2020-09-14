@@ -2,3 +2,5 @@ theme: jekyll-theme-hacker
 title: I'm Surya
 description: A Data Scientist
 
+github:
+  is_project_page: false
