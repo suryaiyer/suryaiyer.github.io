@@ -1,34 +1,29 @@
 
-I love solving problems! I am really good at understanding problem statements and breaking them down into smaller parts and linking all of the parts together to create an amazing solution which goes beyond the expectations of the client. You can get to know more about my professional background on [LinkedIn](https://www.linkedin.com/in/suryaiyer/)
+## About Me 
 
-## Interests and Projects
+I love solving problems! I am really good at understanding problem statements and breaking them down into smaller parts and linking all of the parts together to create an amazing solution which goes beyond the expectations of the clients, whether they are internal stakeholders or customers. 
 
-### Artificial Intelligence
+I enjoy working in the field of analytics. I have about 2 years of experience at TransUnion CIBIL, a credit information company in India. I was part of the Data Innovation and Research team where I was inolved in innovating new products for the company. I grew in love with the field in this period which led me to pursue my Masters at the University of Rochester.
+
+My love for the field grew with courses like Machine Learning and Computer vision. I got to learn more about how the various data munging and modelling techniques used by data scientists and researches and also led to my first publication in computer vision via my [course project](https://arxiv.org/abs/2008.00141). I got the opportunity to apply what I learn in the industry at WW International where I got to work with a team of Senior Data Scientists to solve industry problems. I was able to work through the entire data science product development cycle from Data prepartion to Data visualization and Deployment in Google Kubernetes.
+
+I am currently working to complete my degree and will graduate on December 2020. I am also currently working on personal projects in the are of Reinforcement Learning and Computer vision.
+
+## Interests
  
+ - Reinforcement Learning
+ - Machine Learning 
+ - Computer Vision
+ - Data Science
  
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suryaiyer/suryaiyer.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ## Technologies
+ 
+ - Python
+ - SQL
+ - R
+ - Tableau
+ 
+ ## Packages
+ - Pandas
+ - Scikit-learn
+ - Pytorch
