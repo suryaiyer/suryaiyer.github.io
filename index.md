@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  Nice to meet you! 
+  <h3> Nice to meet you! </h3>
 </p>
 
 ### About Me
