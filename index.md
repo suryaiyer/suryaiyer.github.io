@@ -38,7 +38,3 @@ You can view more about my professional background in [LinkedIn](https://www.lin
 Implemented the greedy and epsilon greedy methods to train an agent to solve a simple Multibandit problem. Developed a multibandit class whcih can take the number of bandits, the means and variances of the reward distribution. It is also possible to add non stationarity by adding random means to the each of the bandits.
 
 ![plot](/output.png)
-
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![plot](/output.png)  |  ![plot](/output.png)
