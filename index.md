@@ -41,4 +41,4 @@ Implemented the greedy and epsilon greedy methods to train an agent to solve a s
 
 Distribution             |  Rewards for Agent
 :-------------------------:|:-------------------------:
-![plot](/Bandit\ Distribution.png)  |  ![plot](/output.png)
+![plot](/Bandit Distribution.png)  |  ![plot](/output.png)
