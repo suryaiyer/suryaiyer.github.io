@@ -30,7 +30,7 @@ You can view more about my professional background in [LinkedIn](https://www.lin
  - Scikit-learn
  - Pytorch
  
- ## Projects
+## Projects
  
 ### Reinforcement Learning
 
